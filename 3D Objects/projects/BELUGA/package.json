@@ -1,0 +1,22 @@
+{
+  "name": "beluga",
+  "version": "1.0.0",
+  "description": "ENTREPRISE DE DEVELOPPEMENT WEB ET APPLICATIONS ",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tcotidiane33/beluga.git"
+  },
+  "author": "TCOTIDIANE",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tcotidiane33/beluga/issues"
+  },
+  "homepage": "https://github.com/tcotidiane33/beluga#readme",
+  "dependencies": {
+    "yarn": "^1.22.11"
+  }
+}
